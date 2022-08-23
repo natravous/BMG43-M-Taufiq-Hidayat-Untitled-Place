@@ -1,0 +1,12 @@
+PART_CLICKED {
+	CreatePartByPartStorage(
+		id = "8770743249266196481",
+		map = "map001",
+		pos = {
+			x = 7.9560828208923,
+			y = 2.151536026001,
+			z = 32.694095611572
+		}
+	)
+	DestoryPart(part = $part1)
+}

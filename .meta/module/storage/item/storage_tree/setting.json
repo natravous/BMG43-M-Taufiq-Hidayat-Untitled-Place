@@ -1,0 +1,94 @@
+{
+  "data": {
+    "instances": [
+      {
+        "__OBJ_TYPE": "Instance_Part_Storage",
+        "btsKey": "570b1822-61ab-4872-b402-c9c08f04d076",
+        "density": 5.5,
+        "friction": 0.56,
+        "id": "8770736280610537473",
+        "massCenter": {
+          "x": 15.090433120728,
+          "y": 1.4999003410339,
+          "z": 29.655529022217
+        },
+        "material": {
+          "texture": "part_huawenban.tga"
+        },
+        "name": "Balok",
+        "position": {
+          "x": 15.090433120728,
+          "y": 1.4999003410339,
+          "z": 29.655529022217
+        },
+        "restitution": 0.07
+      },
+      {
+        "__OBJ_TYPE": "Instance_Model",
+        "children": [
+          {
+            "__OBJ_TYPE": "Instance_Part_Storage",
+            "btsKey": "d74fd751-6a1f-460a-8580-7ab9fe2b3d8e",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8770743249267048449",
+            "massCenter": {
+              "x": 6.7540001869202,
+              "y": 2.0654091835022,
+              "z": 34.17200088501
+            },
+            "position": {
+              "x": 6.7540001869202,
+              "y": 2.0654091835022,
+              "z": 34.17200088501
+            },
+            "restitution": 0.3,
+            "scale": {
+              "x": 1.58099,
+              "y": 0.127985,
+              "z": 1.58098
+            },
+            "shape": "3",
+            "size": {
+              "x": 1.5809878110886,
+              "y": 0.12798482179642,
+              "z": 1.5809766054153
+            }
+          },
+          {
+            "__OBJ_TYPE": "Instance_Part_Storage",
+            "btsKey": "c98db731-bfd5-46e3-853a-dac9c9a1f6b5",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8770743249270210561",
+            "massCenter": {
+              "x": 6.7540001869202,
+              "y": 1.4998965263367,
+              "z": 34.17200088501
+            },
+            "position": {
+              "x": 6.7540001869202,
+              "y": 1.4998965263367,
+              "z": 34.17200088501
+            },
+            "restitution": 0.3,
+            "shape": "3"
+          }
+        ],
+        "id": "8770743249266196481",
+        "name": "Meja",
+        "position": {
+          "x": 6.7540001869202,
+          "y": 1.5646518468857,
+          "z": 34.17200088501
+        }
+      }
+    ]
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "22d613fd3fc6553ff57fde158ea71d73"
+    },
+    "VERSION": "0.22"
+  }
+}

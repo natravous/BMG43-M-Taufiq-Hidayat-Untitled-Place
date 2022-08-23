@@ -1,0 +1,77 @@
+{
+  "data": {
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_CreatePartByPartStorage",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_StorageEntry"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Map",
+                        "rawval": "map001"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ScenePos"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "ed2ec832-f978-4d3f-b584-3dc6e5009094"
+              },
+              "pos": {
+                "x": 604,
+                "y": 146
+              }
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "868c9a53-f7ca-40c7-8945-e1fb4c5391a3"
+            },
+            "type": "Trigger_PartClicked"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "ed2ec832-f978-4d3f-b584-3dc6e5009094"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "6a28cfc1-2c69-489a-81d0-16922f08da6e"
+            },
+            "pos": {
+              "x": 266,
+              "y": 166
+            }
+          },
+          "type": "Trigger_PartClicked"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "triggers.bts": "46fadf3c352d4e95e0870aed7fd7315f"
+    },
+    "VERSION": "0.22"
+  }
+}
