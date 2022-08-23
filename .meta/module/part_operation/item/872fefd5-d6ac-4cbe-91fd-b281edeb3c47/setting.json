@@ -5,72 +5,45 @@
         {
           "actions": [
             {
-              "__OBJ_TYPE": "Action_DestoryPart",
+              "__OBJ_TYPE": "Action_MoveAllPlayers",
               "components": [
                 {
                   "__OBJ_TYPE": "Component_Params",
                   "params": [
                     {
                       "value": {
-                        "__OBJ_TYPE": "T_Part",
-                        "action": "962f63a9-cca4-4c6e-bdf0-2a66287e0ca1"
+                        "__OBJ_TYPE": "T_SceneRegion",
+                        "rawval": {
+                          "region": {
+                            "max": {
+                              "x": 4,
+                              "y": 2,
+                              "z": 18
+                            },
+                            "min": {
+                              "x": 1,
+                              "y": 1,
+                              "z": 15
+                            }
+                          }
+                        }
                       }
-                    }
-                  ]
-                }
-              ],
-              "id": {
-                "value": "490095fe-4b46-47ef-804d-320228410568"
-              },
-              "pos": {
-                "x": 655,
-                "y": 391
-              }
-            },
-            {
-              "__OBJ_TYPE": "Action_GetUserContextVar",
-              "components": [
-                {
-                  "__OBJ_TYPE": "Component_Params",
-                  "params": [
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_String",
-                        "action": "9088be3e-0b0d-434d-bc69-da794ac7c6eb"
-                      }
-                    }
-                  ]
-                }
-              ],
-              "id": {
-                "value": "962f63a9-cca4-4c6e-bdf0-2a66287e0ca1"
-              },
-              "pos": {
-                "x": 998,
-                "y": 462
-              }
-            },
-            {
-              "__OBJ_TYPE": "Action_GetEntityName",
-              "components": [
-                {
-                  "__OBJ_TYPE": "Component_Params",
-                  "params": [
+                    },
                     {
                       "value": {
                         "__OBJ_TYPE": "T_Entity",
-                        "action": "6cda7bc4-b34a-4502-aef1-fbd3da18b96b"
+                        "action": "d1685d09-7512-4281-933a-b5ba0b2834a1"
                       }
                     }
                   ]
                 }
               ],
               "id": {
-                "value": "9088be3e-0b0d-434d-bc69-da794ac7c6eb"
+                "value": "0314040b-0490-4ee3-abe3-1f41238cf857"
               },
               "pos": {
-                "x": 1340,
-                "y": 539
+                "x": 700,
+                "y": 258
               }
             },
             {
@@ -82,11 +55,11 @@
                 }
               ],
               "id": {
-                "value": "6cda7bc4-b34a-4502-aef1-fbd3da18b96b"
+                "value": "d1685d09-7512-4281-933a-b5ba0b2834a1"
               },
               "pos": {
-                "x": 1680,
-                "y": 612
+                "x": 1409,
+                "y": 467
               },
               "type": "T_Entity"
             }
@@ -103,7 +76,7 @@
                 "__OBJ_TYPE": "Component_Sequence",
                 "children": [
                   {
-                    "action": "490095fe-4b46-47ef-804d-320228410568"
+                    "action": "0314040b-0490-4ee3-abe3-1f41238cf857"
                   },
                   []
                 ]
@@ -120,7 +93,7 @@
   },
   "meta": {
     "EXPORT": {
-      "triggers.bts": "1e54f353be00b2c3acc6f0fa00c07ad2"
+      "triggers.bts": "447293c97db8786956c29a76ffc7595d"
     },
     "VERSION": "0.22"
   }

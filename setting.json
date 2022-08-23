@@ -285,16 +285,14 @@
         "run_type": "server",
         "save": false,
         "value": ""
-      }
-    ],
-    "global": [
+      },
       {
-        "key": "Pintu",
+        "key": "isOpen",
         "run_type": "server",
-        "save": false,
-        "value": ""
+        "save": true
       }
     ],
+    "global": [],
     "ui": []
   },
   "waitAtInitPos": true,

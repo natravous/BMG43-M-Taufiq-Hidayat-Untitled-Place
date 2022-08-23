@@ -39,14 +39,13 @@
           "value": {
             "__OBJ_TYPE": "T_String"
           }
-        }
-      ],
-      "global": [
+        },
         {
-          "key": "Pintu",
-          "type": "string",
+          "key": "isOpen",
+          "save": true,
+          "type": "bool",
           "value": {
-            "__OBJ_TYPE": "T_String"
+            "__OBJ_TYPE": "T_Bool"
           }
         }
       ]
@@ -54,7 +53,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "b6a5269c31520ea3f0168fb8887cbe6f",
+      "setting.json": "79483c48e473493036c76bda35853f71",
       "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
       "triggers.bts": "",
       "triggers_client.bts": ""

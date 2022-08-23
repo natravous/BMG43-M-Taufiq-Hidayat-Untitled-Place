@@ -1,8 +1,79 @@
 {
-  "data": [],
+  "data": {
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_DestoryPart",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Part",
+                        "action": "83b2b6a0-4437-48c8-b6d1-b62d3c524f8d"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "89b1b9da-19c3-496f-bb48-348d2274647b"
+              },
+              "pos": {
+                "x": 662,
+                "y": 386
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "part1"
+                }
+              ],
+              "id": {
+                "value": "83b2b6a0-4437-48c8-b6d1-b62d3c524f8d"
+              },
+              "pos": {
+                "x": 968,
+                "y": 456
+              },
+              "type": "T_Part"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "a947385d-7d35-4f7e-8ae7-c59df8737415"
+            },
+            "type": "Trigger_PartClicked"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "89b1b9da-19c3-496f-bb48-348d2274647b"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "2e439001-5c39-4838-9b25-b46928ca7e5b"
+            }
+          },
+          "type": "Trigger_PartClicked"
+        }
+      ]
+    }
+  },
   "meta": {
     "EXPORT": {
-      "triggers.bts": ""
+      "triggers.bts": "8b91533c254b9112b73376cc7d72db6a"
     },
     "VERSION": "0.22"
   }
