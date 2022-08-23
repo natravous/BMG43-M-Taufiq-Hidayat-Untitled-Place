@@ -292,7 +292,13 @@
         "save": true
       }
     ],
-    "global": [],
+    "global": [
+      {
+        "key": "isCheck",
+        "run_type": "server",
+        "save": false
+      }
+    ],
     "ui": []
   },
   "waitAtInitPos": true,

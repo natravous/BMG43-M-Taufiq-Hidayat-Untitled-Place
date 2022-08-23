@@ -48,12 +48,21 @@
             "__OBJ_TYPE": "T_Bool"
           }
         }
+      ],
+      "global": [
+        {
+          "key": "isCheck",
+          "type": "bool",
+          "value": {
+            "__OBJ_TYPE": "T_Bool"
+          }
+        }
       ]
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "79483c48e473493036c76bda35853f71",
+      "setting.json": "bdc58d276d2ca161ad05fa017efa4154",
       "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
       "triggers.bts": "",
       "triggers_client.bts": ""

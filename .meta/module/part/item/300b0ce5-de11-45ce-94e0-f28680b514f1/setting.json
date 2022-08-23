@@ -5,6 +5,82 @@
         {
           "actions": [
             {
+              "__OBJ_TYPE": "Action_If",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Condition",
+                  "children": [
+                    {
+                      "action": "593fd700-fdbc-4761-8791-51279246847a"
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "deeffc26-3c59-4866-9014-3dc499b3903c"
+              },
+              "pos": {
+                "x": 656,
+                "y": 637
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_IfBranch",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool",
+                        "action": "e23d3d0c-c717-4275-a1f4-931995f6bd8e",
+                        "rawval": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "__OBJ_TYPE": "Component_Sequence",
+                  "children": [
+                    {
+                      "action": "1d3b4b72-ac09-4e3c-b6ac-091ab0eb9c64"
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "593fd700-fdbc-4761-8791-51279246847a"
+              },
+              "pos": {
+                "x": 887,
+                "y": 656
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetGlobalVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_GlobalVar",
+                        "rawval": "isCheck"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "e23d3d0c-c717-4275-a1f4-931995f6bd8e"
+              },
+              "pos": {
+                "x": 1185,
+                "y": 626
+              },
+              "type": "T_Bool"
+            },
+            {
               "__OBJ_TYPE": "Action_DestoryPart",
               "components": [
                 {
@@ -13,18 +89,18 @@
                     {
                       "value": {
                         "__OBJ_TYPE": "T_Part",
-                        "action": "83b2b6a0-4437-48c8-b6d1-b62d3c524f8d"
+                        "action": "db4ec910-70ea-44c4-9bb4-e636590153e6"
                       }
                     }
                   ]
                 }
               ],
               "id": {
-                "value": "89b1b9da-19c3-496f-bb48-348d2274647b"
+                "value": "1d3b4b72-ac09-4e3c-b6ac-091ab0eb9c64"
               },
               "pos": {
-                "x": 662,
-                "y": 386
+                "x": 1111,
+                "y": 813
               }
             },
             {
@@ -36,11 +112,11 @@
                 }
               ],
               "id": {
-                "value": "83b2b6a0-4437-48c8-b6d1-b62d3c524f8d"
+                "value": "db4ec910-70ea-44c4-9bb4-e636590153e6"
               },
               "pos": {
-                "x": 968,
-                "y": 456
+                "x": 1444,
+                "y": 880
               },
               "type": "T_Part"
             }
@@ -57,7 +133,7 @@
                 "__OBJ_TYPE": "Component_Sequence",
                 "children": [
                   {
-                    "action": "89b1b9da-19c3-496f-bb48-348d2274647b"
+                    "action": "deeffc26-3c59-4866-9014-3dc499b3903c"
                   }
                 ]
               }
@@ -73,7 +149,7 @@
   },
   "meta": {
     "EXPORT": {
-      "triggers.bts": "8b91533c254b9112b73376cc7d72db6a"
+      "triggers.bts": "6245555ab4a9c3c8827607f176681288"
     },
     "VERSION": "0.22"
   }

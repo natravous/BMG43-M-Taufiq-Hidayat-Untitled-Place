@@ -17,4 +17,5 @@ PART_CLICKED {
 			}
 		}
 	)
+	@isCheck = true
 }

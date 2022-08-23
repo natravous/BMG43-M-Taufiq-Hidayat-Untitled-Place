@@ -58,10 +58,39 @@
                 "value": "d1685d09-7512-4281-933a-b5ba0b2834a1"
               },
               "pos": {
-                "x": 1409,
-                "y": 467
+                "x": 1435,
+                "y": 321
               },
               "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_SetGlobalVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_GlobalVar",
+                        "rawval": "isCheck"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool",
+                        "rawval": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "f7bdf09a-9744-4d9e-905a-c978c0b0c7cb"
+              },
+              "pos": {
+                "x": 688,
+                "y": 506
+              }
             }
           ],
           "custom_trigger_data": {
@@ -78,7 +107,9 @@
                   {
                     "action": "0314040b-0490-4ee3-abe3-1f41238cf857"
                   },
-                  []
+                  {
+                    "action": "f7bdf09a-9744-4d9e-905a-c978c0b0c7cb"
+                  }
                 ]
               }
             ],
@@ -93,7 +124,7 @@
   },
   "meta": {
     "EXPORT": {
-      "triggers.bts": "447293c97db8786956c29a76ffc7595d"
+      "triggers.bts": "8bb062ce0d598f0c84afcc68cd4b1d10"
     },
     "VERSION": "0.22"
   }

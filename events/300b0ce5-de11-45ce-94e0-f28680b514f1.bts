@@ -1,3 +1,5 @@
 PART_CLICKED {
-	DestoryPart(part = $part1)
+	If (@isCheck) {
+		DestoryPart(part = $part1)
+	}
 }
