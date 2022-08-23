@@ -2,12 +2,86 @@
   "data": {
     "name": {
       "value": "entity_e48b5ee6-2a40-44a7-9d88-7047c736f450"
+    },
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_CreatePartByPartStorage",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_StorageEntry",
+                        "rawval": {
+                          "id": "8771028132217225217",
+                          "name": "Meja"
+                        }
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Map",
+                        "rawval": "map001"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ScenePos",
+                        "rawval": {
+                          "pos": {
+                            "x": 10.195764541626,
+                            "y": 1.0399001026154,
+                            "z": 36.618221282959
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "3046360c-48f1-4fbd-8734-ead037230cc0"
+              },
+              "pos": {
+                "x": 748,
+                "y": 401
+              }
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "e747509a-2e0a-49b8-9514-e5be82f00766"
+            },
+            "type": "Trigger_EntityEnter"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "3046360c-48f1-4fbd-8734-ead037230cc0"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "555611fb-b00f-447e-89df-2b6369fad53f"
+            }
+          },
+          "type": "Trigger_EntityEnter"
+        }
+      ]
     }
   },
   "meta": {
     "EXPORT": {
       "setting.json": "9ffc761ec12c14ce1e032e21bd91edd4",
-      "triggers.bts": ""
+      "triggers.bts": "efaa2c6431826f213106beab2b283b11"
     },
     "VERSION": "0.22"
   }

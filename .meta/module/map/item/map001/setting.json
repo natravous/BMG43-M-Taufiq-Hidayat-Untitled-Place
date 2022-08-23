@@ -30,6 +30,24 @@
         "rotation": {
           "y": -90
         }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "0dd48568-a194-4ce4-9320-31115b90d3cb",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8771031945833562113",
+        "massCenter": {
+          "x": 14.773999214172,
+          "y": 1.4998998641968,
+          "z": 23.453413009644
+        },
+        "position": {
+          "x": 14.773999214172,
+          "y": 1.4998998641968,
+          "z": 23.453413009644
+        },
+        "restitution": 0.3
       }
     ],
     "name": {
@@ -42,7 +60,7 @@
   "meta": {
     "EXPORT": {
       "DataSet": [],
-      "setting.json": "6f5d7876247600b5b5fc8e3606e9a048"
+      "setting.json": "75aab28a5b68d65a8952059ac9c64c82"
     },
     "VERSION": "0.22"
   }
