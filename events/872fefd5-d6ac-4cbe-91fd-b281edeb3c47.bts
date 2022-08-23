@@ -1,21 +1,3 @@
 PART_CLICKED {
-	MoveAllPlayers(
-		entity = $from,
-		region = {
-			map = "",
-			max = {
-				__OBJ_TYPE = "Vector3i",
-				x = 4,
-				y = 2,
-				z = 18
-			},
-			min = {
-				__OBJ_TYPE = "Vector3i",
-				x = 1,
-				y = 1,
-				z = 15
-			}
-		}
-	)
 	@isCheck = true
 }
