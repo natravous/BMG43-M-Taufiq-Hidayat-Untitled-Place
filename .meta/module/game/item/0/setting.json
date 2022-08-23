@@ -10,7 +10,7 @@
       "map": "map001",
       "pos": {
         "x": 7,
-        "y": 1.04,
+        "y": 1.0399001026154,
         "z": 37
       }
     },
@@ -25,16 +25,36 @@
     "startPos": {
       "map": "map001",
       "pos": {
-        "x": 7,
-        "y": 1.04,
-        "z": 37
+        "x": 9,
+        "y": 1.0399003410339,
+        "z": 16
       }
     },
-    "unlimitedPlayTime": true
+    "unlimitedPlayTime": true,
+    "vars": {
+      "entity": [
+        {
+          "key": "Lawang",
+          "type": "string",
+          "value": {
+            "__OBJ_TYPE": "T_String"
+          }
+        }
+      ],
+      "global": [
+        {
+          "key": "Pintu",
+          "type": "string",
+          "value": {
+            "__OBJ_TYPE": "T_String"
+          }
+        }
+      ]
+    }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "900598348a92fb73d2007697220b5848",
+      "setting.json": "b6a5269c31520ea3f0168fb8887cbe6f",
       "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
       "triggers.bts": "",
       "triggers_client.bts": ""

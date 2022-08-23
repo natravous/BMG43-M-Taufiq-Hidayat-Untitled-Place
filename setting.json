@@ -91,7 +91,7 @@
   "initPos": {
     "map": "map001",
     "x": 7,
-    "y": 1.04,
+    "y": 1.0399001026154,
     "z": 37
   },
   "isTimeStopped": true,
@@ -227,9 +227,9 @@
   "startPos": [
     {
       "map": "map001",
-      "x": 7,
-      "y": 1.04,
-      "z": 37
+      "x": 9,
+      "y": 1.0399003410339,
+      "z": 16
     }
   ],
   "team": [],
@@ -279,8 +279,22 @@
   "useVoxelTerrain": true,
   "vars": {
     "__OBJ_TYPE": [],
-    "entity": [],
-    "global": [],
+    "entity": [
+      {
+        "key": "Lawang",
+        "run_type": "server",
+        "save": false,
+        "value": ""
+      }
+    ],
+    "global": [
+      {
+        "key": "Pintu",
+        "run_type": "server",
+        "save": false,
+        "value": ""
+      }
+    ],
     "ui": []
   },
   "waitAtInitPos": true,

@@ -42,12 +42,38 @@
     },
     "reviveTime": {
       "value": 40
+    },
+    "triggers": {
+      "list": [
+        {
+          "custom_trigger_data": {
+            "name": {
+              "value": "99cb011d-2eca-4985-86c6-718c1373765d"
+            },
+            "type": "Trigger_EntityEnter"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  []
+                ]
+              }
+            ],
+            "id": {
+              "value": "c0441436-ee74-4423-9287-0ba30f4ee1df"
+            }
+          },
+          "type": "Trigger_EntityEnter"
+        }
+      ]
     }
   },
   "meta": {
     "EXPORT": {
       "setting.json": "ae5391857934a0052b1391b4a8f9e3e8",
-      "triggers.bts": ""
+      "triggers.bts": "b6bc7ed29d33f0b4ea3afe435c1494f4"
     },
     "VERSION": "0.22"
   }
