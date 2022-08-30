@@ -34,13 +34,6 @@
     "vars": {
       "entity": [
         {
-          "key": "Lawang",
-          "type": "string",
-          "value": {
-            "__OBJ_TYPE": "T_String"
-          }
-        },
-        {
           "key": "isOpen",
           "save": true,
           "type": "bool",
@@ -56,17 +49,24 @@
           "value": {
             "__OBJ_TYPE": "T_Bool"
           }
+        },
+        {
+          "key": "player",
+          "type": "entity",
+          "value": {
+            "__OBJ_TYPE": "T_Entity"
+          }
         }
       ]
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "bdc58d276d2ca161ad05fa017efa4154",
+      "setting.json": "bc0322bd814e5d5b738503d2e6ae7810",
       "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
       "triggers.bts": "",
       "triggers_client.bts": ""
     },
-    "VERSION": "0.22"
+    "VERSION": "0.23"
   }
 }

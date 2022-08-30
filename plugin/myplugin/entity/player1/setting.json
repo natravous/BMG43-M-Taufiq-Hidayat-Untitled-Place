@@ -15,6 +15,7 @@
     "hideSmooth": true,
     "hideTime": 15
   },
+  "boundingScaleWithSize": true,
   "canClick": false,
   "canHurtMove": true,
   "canJump": true,
@@ -30,15 +31,15 @@
   "collider": {
     "height": 1.5,
     "offset": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "radius": 0.5,
     "rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "type": "Capsule"
   },
@@ -87,9 +88,10 @@
   "hideHp": 0,
   "hideName": false,
   "homeSize": 10,
-  "hpBarColor": 4294967551.0,
+  "hpBarColor": 4294967551,
   "hpBarHeight": 0.2,
   "hpBarWidth": 1,
+  "hpFaceCamera": 0,
   "hurtResistantTime": 0,
   "idleProb": 0,
   "idleTime": [

@@ -72,9 +72,9 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ae5391857934a0052b1391b4a8f9e3e8",
+      "setting.json": "b230aab547491eb646bf75fd29076eaa",
       "triggers.bts": "b6bc7ed29d33f0b4ea3afe435c1494f4"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.23"
   }
 }

@@ -3,6 +3,7 @@
     "instances": [
       {
         "__OBJ_TYPE": "Instance_Part_Storage",
+        "batchType": "Dynamic",
         "btsKey": "570b1822-61ab-4872-b402-c9c08f04d076",
         "density": 5.5,
         "friction": 0.56,
@@ -25,9 +26,11 @@
       },
       {
         "__OBJ_TYPE": "Instance_Model",
+        "batchType": "Dynamic",
         "children": [
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "d74fd751-6a1f-460a-8580-7ab9fe2b3d8e",
             "density": 2.2,
             "friction": 0.37,
@@ -57,6 +60,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "c98db731-bfd5-46e3-853a-dac9c9a1f6b5",
             "density": 2.2,
             "friction": 0.37,
@@ -85,10 +89,13 @@
       },
       {
         "__OBJ_TYPE": "Instance_PartOperation_Storage",
+        "batchType": "Dynamic",
         "btsKey": "32385601-2679-436b-9a11-b4b25c148675",
-        "children": [
+        "collisionUniqueKey": "8771028132217225217",
+        "componentList": [
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "f25fe256-b31c-436f-9993-9be7bb402ab6",
             "density": 2.2,
             "friction": 0.37,
@@ -118,6 +125,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "9f59b218-676d-42c0-9307-1ef9d01d21ef",
             "density": 2.2,
             "friction": 0.37,
@@ -136,7 +144,6 @@
             "shape": "3"
           }
         ],
-        "collisionUniqueKey": "8771028132217225217",
         "density": 2.2,
         "friction": 0.37,
         "id": "8771028132217225217",
@@ -163,13 +170,80 @@
           "y": 1.1295050382614,
           "z": 1.580979347229
         }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part_Storage",
+        "batchType": "Dynamic",
+        "btsKey": "51ad4907-99b1-4951-8fe2-c459a91a65cc",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8781178214537150465",
+        "massCenter": {
+          "x": 5,
+          "y": 2.4998998641968,
+          "z": 16.5
+        },
+        "material": {
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Utama",
+        "position": {
+          "x": 5,
+          "y": 2.4998998641968,
+          "z": 16.5
+        },
+        "restitution": 0.18,
+        "scale": {
+          "y": 3,
+          "z": 2
+        },
+        "size": {
+          "x": 0.99999982118607,
+          "y": 2.9999997615814,
+          "z": 1.9999994039536
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part_Storage",
+        "batchType": "Dynamic",
+        "btsKey": "521b1795-fc9d-4cd3-a39b-5910ac1cd723",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8781194559353913345",
+        "massCenter": {
+          "x": -0.5,
+          "y": 2.49989986419678,
+          "z": 15
+        },
+        "material": {
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Sekunder",
+        "position": {
+          "x": -0.5,
+          "y": 2.49989986419678,
+          "z": 15
+        },
+        "restitution": 0.18,
+        "scale": {
+          "x": 1.99999,
+          "y": 2.99998,
+          "z": 0.999989
+        },
+        "size": {
+          "x": 1.99999618530273,
+          "y": 2.99998474121094,
+          "z": 0.999990582466125
+        },
+        "useAnchor": true
       }
     ]
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "e7fe685a7a454c440e513acfd4a3556e"
+      "setting.json": "ef938b40417c52a922b9c042129feab4"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.23"
   }
 }

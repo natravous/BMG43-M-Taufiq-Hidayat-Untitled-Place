@@ -12,6 +12,7 @@
       },
       {
         "__OBJ_TYPE": "Instance_Light",
+        "batchType": "Dynamic",
         "id": "8750827152463757313",
         "ID": 3,
         "lightType": "GlobalLight",
@@ -19,6 +20,7 @@
       },
       {
         "__OBJ_TYPE": "Instance_Light",
+        "batchType": "Dynamic",
         "id": "8750827152601219073",
         "ID": 4,
         "lightType": "DirectionalLight",
@@ -37,9 +39,8 @@
   },
   "meta": {
     "EXPORT": {
-      "DataSet": [],
-      "setting.json": "78d758072fdad67f3c3bfe09b8631a34"
+      "setting.json": "4b7045326288b3c76b270325a5967e54"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.23"
   }
 }

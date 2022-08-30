@@ -1,26 +1,36 @@
 {
+  "bake_texture_size": 64,
   "blinn": 0,
   "canBreak": true,
   "hdr": 0,
   "hideCloud": true,
+  "is_bake_light_effect_visible": false,
   "moveDownGravity": 0.15,
   "scene": [
     {
+      "attributes": [],
       "class": "VoxelTerrain",
       "customProperties": [],
       "properties": {
+        "collisionGroup": "1",
         "id": "8750827152331177985",
+        "isVisibleInEditor": "true",
         "name": "VoxelTerrain",
-        "uniqueKey": ""
+        "uniqueKey": "",
+        "useForCollision": "false"
       }
     },
     {
       "class": "Light",
       "customProperties": [],
       "properties": {
-        "batchType": "Static",
+        "bakeTextureWeight": "1",
+        "batchType": "Dynamic",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
         "id": "8750827152463757313",
         "ID": "3",
+        "isVisibleInEditor": "true",
         "lightActived": "true",
         "lightAngle": "30.0",
         "lightBrightness": "1.0",
@@ -40,18 +50,23 @@
         "shadowsOffset": "0.02",
         "shadowsPresicion": "1024",
         "shadowsType": "null",
-        "skyColor": "r:0.49803921568627 g:0.51372549019608 b:0.54509803921569 a:1.0",
-        "skyLineColor": "r:0.23921568627451 g:0.22745098039216 b:0.2078431372549 a:1.0",
-        "useAnchor": "false"
+        "skyColor": "r:0.498039215686275 g:0.513725490196078 b:0.545098039215686 a:1.0",
+        "skyLineColor": "r:0.23921568627451 g:0.227450980392157 b:0.207843137254902 a:1.0",
+        "useAnchor": "false",
+        "useForCollision": "false"
       }
     },
     {
       "class": "Light",
       "customProperties": [],
       "properties": {
-        "batchType": "Static",
+        "bakeTextureWeight": "1",
+        "batchType": "Dynamic",
+        "canAcceptShadow": "true",
+        "canGenerateShadow": "true",
         "id": "8750827152601219073",
         "ID": "4",
+        "isVisibleInEditor": "true",
         "lightActived": "true",
         "lightAngle": "30.0",
         "lightBrightness": "1.0",
@@ -71,9 +86,10 @@
         "shadowsOffset": "0.02",
         "shadowsPresicion": "1024",
         "shadowsType": "null",
-        "skyColor": "r:0.49803921568627 g:0.51372549019608 b:0.54509803921569 a:1.0",
-        "skyLineColor": "r:0.23921568627451 g:0.22745098039216 b:0.2078431372549 a:1.0",
-        "useAnchor": "false"
+        "skyColor": "r:0.498039215686275 g:0.513725490196078 b:0.545098039215686 a:1.0",
+        "skyLineColor": "r:0.23921568627451 g:0.227450980392157 b:0.207843137254902 a:1.0",
+        "useAnchor": "false",
+        "useForCollision": "false"
       }
     }
   ],
@@ -98,7 +114,8 @@
   "skyBoxTexPixFmt": "RGBA8",
   "skyBoxTexSize": 512,
   "touchPosY": {
-    "touchdownPosY": -30.0,
-    "touchupPosY": 720.0
-  }
+    "touchdownPosY": -30,
+    "touchupPosY": 720
+  },
+  "useLod": false
 }

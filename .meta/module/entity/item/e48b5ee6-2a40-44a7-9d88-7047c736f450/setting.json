@@ -80,9 +80,9 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "9ffc761ec12c14ce1e032e21bd91edd4",
+      "setting.json": "4ff33eb1ba0477ae7201ad3f09eadd07",
       "triggers.bts": "efaa2c6431826f213106beab2b283b11"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.23"
   }
 }

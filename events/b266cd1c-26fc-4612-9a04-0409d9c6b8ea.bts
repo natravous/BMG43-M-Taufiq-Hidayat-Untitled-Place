@@ -1,0 +1,11 @@
+PART_CLICKED {
+	If (@isCheck) {
+		SetPartAlpha(alpha = 0, part = $part1)
+		SetPartUseCollide(part = $part1, useCollide = false)
+	}
+}
+
+PART_TOUCH_ENTITY_END {
+	SetPartAlpha(alpha = 1, part = $part1)
+	SetPartUseCollide(part = $part1, useCollide = true)
+}
