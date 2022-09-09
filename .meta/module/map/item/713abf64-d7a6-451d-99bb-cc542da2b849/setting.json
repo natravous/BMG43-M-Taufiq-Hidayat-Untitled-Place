@@ -31,6 +31,2561 @@
         "rotation": {
           "y": -90
         }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "5dd4b92f-da28-4072-b665-bd00bf3bd87e",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8792154525453434881",
+        "massCenter": {
+          "x": -15.9628925323486,
+          "y": 2.49989008903503,
+          "z": 46.499397277832
+        },
+        "material": {
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Sekunder",
+        "position": {
+          "x": -15.9628925323486,
+          "y": 2.49989008903503,
+          "z": 46.499397277832
+        },
+        "restitution": 0.18,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 1.99999,
+          "y": 2.99998,
+          "z": 0.999989
+        },
+        "size": {
+          "x": 1.99999618530273,
+          "y": 2.99998474121094,
+          "z": 0.999990582466125
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792155711793446913",
+        "massCenter": {
+          "x": -20,
+          "y": 3.49985504150391,
+          "z": 50
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -20,
+          "y": 3.49985504150391,
+          "z": 50
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 6.9999,
+          "y": 4.99992,
+          "z": 0.999979
+        },
+        "size": {
+          "x": 6.99990463256836,
+          "y": 4.99991846084595,
+          "z": 0.999979138374329
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792156222087544833",
+        "massCenter": {
+          "x": -20,
+          "y": 3.49985504150391,
+          "z": 43
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -20,
+          "y": 3.49985504150391,
+          "z": 43
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 6.9999,
+          "y": 4.99991,
+          "z": 0.999977
+        },
+        "size": {
+          "x": 6.99990463256836,
+          "y": 4.99991846084595,
+          "z": 0.999979138374329
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792156493253066753",
+        "massCenter": {
+          "x": -24,
+          "y": 3.49985504150391,
+          "z": 46.5
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -24,
+          "y": 3.49985504150391,
+          "z": 46.5
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 7.99989,
+          "y": 4.9999,
+          "z": 0.999975
+        },
+        "size": {
+          "x": 7.9998950958252,
+          "y": 4.99990558624268,
+          "z": 0.999975919723511
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792156784650158081",
+        "massCenter": {
+          "x": -16,
+          "y": 3.49985504150391,
+          "z": 49
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -16,
+          "y": 3.49985504150391,
+          "z": 49
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 2.99986,
+          "y": 4.99986,
+          "z": 0.999964
+        },
+        "size": {
+          "x": 2.99986004829407,
+          "y": 4.99986267089844,
+          "z": 0.999965727329254
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792156958137319425",
+        "massCenter": {
+          "x": -16,
+          "y": 3.49985504150391,
+          "z": 44
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -16,
+          "y": 3.49985504150391,
+          "z": 44
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 2.99986,
+          "y": 4.99986,
+          "z": 0.999966
+        },
+        "size": {
+          "x": 2.99986290931702,
+          "y": 4.99986791610718,
+          "z": 0.999967038631439
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d043fadd-fc57-4479-a815-812034f3aae7",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792157295439626241",
+        "massCenter": {
+          "x": -16,
+          "y": 5,
+          "z": 46.5016326904297
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Atas",
+        "position": {
+          "x": -16,
+          "y": 5,
+          "z": 46.5016326904297
+        },
+        "restitution": 0.2,
+        "scale": {
+          "y": 2,
+          "z": 2
+        },
+        "size": {
+          "x": 0.99999988079071,
+          "y": 1.9999998807907,
+          "z": 1.9999996423721
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792158874171408385",
+        "massCenter": {
+          "x": -9.5,
+          "y": 3.49985504150391,
+          "z": 50
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -9.5,
+          "y": 3.49985504150391,
+          "z": 50
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 11.9998,
+          "y": 4.99988,
+          "z": 0.999969
+        },
+        "size": {
+          "x": 11.9998455047607,
+          "y": 4.99987936019897,
+          "z": 0.999969363212585
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792159249959583745",
+        "massCenter": {
+          "x": 0.999994456768036,
+          "y": 3.49985504150391,
+          "z": 49.9999237060547
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 0.999994456768036,
+          "y": 3.49985504150391,
+          "z": 49.9999237060547
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 179.999984741211
+        },
+        "scale": {
+          "x": 6.9999,
+          "y": 4.99991,
+          "z": 0.999977
+        },
+        "size": {
+          "x": 6.99990463256836,
+          "y": 4.99991846084595,
+          "z": 0.999979138374329
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d043fadd-fc57-4479-a815-812034f3aae7",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792159249966301185",
+        "massCenter": {
+          "x": -3.00000309944153,
+          "y": 5,
+          "z": 46.4982833862305
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Atas",
+        "position": {
+          "x": -3.00000309944153,
+          "y": 5,
+          "z": 46.4982833862305
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 179.999984741211
+        },
+        "scale": {
+          "y": 2,
+          "z": 2
+        },
+        "size": {
+          "x": 0.99999988079071,
+          "y": 1.9999998807907,
+          "z": 1.9999996423721
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792159249972363265",
+        "massCenter": {
+          "x": 0.999995529651642,
+          "y": 3.49985504150391,
+          "z": 42.9999008178711
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 0.999995529651642,
+          "y": 3.49985504150391,
+          "z": 42.9999008178711
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 179.999984741211
+        },
+        "scale": {
+          "x": 6.9999,
+          "y": 4.99991,
+          "z": 0.999977
+        },
+        "size": {
+          "x": 6.99990463256836,
+          "y": 4.99991846084595,
+          "z": 0.999979138374329
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792159249978687489",
+        "massCenter": {
+          "x": -2.99999690055847,
+          "y": 3.49985504150391,
+          "z": 48.9999046325684
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -2.99999690055847,
+          "y": 3.49985504150391,
+          "z": 48.9999046325684
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": -89.9999771118164
+        },
+        "scale": {
+          "x": 2.99986,
+          "y": 4.99986,
+          "z": 0.999966
+        },
+        "size": {
+          "x": 2.99986290931702,
+          "y": 4.99986791610718,
+          "z": 0.999967038631439
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792159249984913409",
+        "massCenter": {
+          "x": 5.00001811981201,
+          "y": 3.49985504150391,
+          "z": 46.4999084472656
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 5.00001811981201,
+          "y": 3.49985504150391,
+          "z": 46.4999084472656
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": -90
+        },
+        "scale": {
+          "x": 7.99989,
+          "y": 4.9999,
+          "z": 0.999975
+        },
+        "size": {
+          "x": 7.9998950958252,
+          "y": 4.99990558624268,
+          "z": 0.999975919723511
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792159821380485121",
+        "massCenter": {
+          "x": -3.00000286102295,
+          "y": 3.49985504150391,
+          "z": 44
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -3.00000286102295,
+          "y": 3.49985504150391,
+          "z": 44
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 2.99986,
+          "y": 4.99986,
+          "z": 0.999966
+        },
+        "size": {
+          "x": 2.99986290931702,
+          "y": 4.99986791610718,
+          "z": 0.999967038631439
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792159904262782977",
+        "massCenter": {
+          "x": -6,
+          "y": 3.49985504150391,
+          "z": 43
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -6,
+          "y": 3.49985504150391,
+          "z": 43
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 4.99986,
+          "y": 4.99986,
+          "z": 0.999964
+        },
+        "size": {
+          "x": 4.99986267089844,
+          "y": 4.99986600875854,
+          "z": 0.999965012073517
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792160007590576129",
+        "massCenter": {
+          "x": -13,
+          "y": 3.49985504150391,
+          "z": 43
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -13,
+          "y": 3.49985504150391,
+          "z": 43
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 4.99985,
+          "y": 4.99985,
+          "z": 0.999962
+        },
+        "size": {
+          "x": 4.99985694885254,
+          "y": 4.99985694885254,
+          "z": 0.999962747097015
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792160920368381953",
+        "massCenter": {
+          "x": -12,
+          "y": 3.49985504150391,
+          "z": 38.5
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -12,
+          "y": 3.49985504150391,
+          "z": 38.5
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 7.99989,
+          "y": 4.9999,
+          "z": 0.999975
+        },
+        "size": {
+          "x": 7.9998950958252,
+          "y": 4.99990558624268,
+          "z": 0.999975919723511
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792161157177720833",
+        "massCenter": {
+          "x": 4.99999618530273,
+          "y": 3.49985504150391,
+          "z": 28.5
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 4.99999618530273,
+          "y": 3.49985504150391,
+          "z": 28.5
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 9.9997,
+          "y": 4.99982,
+          "z": 0.999956
+        },
+        "size": {
+          "x": 9.99971961975098,
+          "y": 4.99983263015747,
+          "z": 0.999958217144012
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792588982927818753",
+        "massCenter": {
+          "x": -11.9999990463257,
+          "y": 3.49985504150391,
+          "z": 28.5
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -11.9999990463257,
+          "y": 3.49985504150391,
+          "z": 28.5
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 7.99989,
+          "y": 4.9999,
+          "z": 0.999975
+        },
+        "size": {
+          "x": 7.9998950958252,
+          "y": 4.99990558624268,
+          "z": 0.999975919723511
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792589786817036289",
+        "massCenter": {
+          "x": -14.5,
+          "y": 3.49985504150391,
+          "z": 24
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -14.5,
+          "y": 3.49985504150391,
+          "z": 24
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 7.99983,
+          "y": 4.99983,
+          "z": 0.999956
+        },
+        "size": {
+          "x": 7.99983644485474,
+          "y": 4.99983596801758,
+          "z": 0.999958515167236
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792590797458866177",
+        "massCenter": {
+          "x": -2,
+          "y": 3.49985504150391,
+          "z": 24
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -2,
+          "y": 3.49985504150391,
+          "z": 24
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 12.9998,
+          "y": 4.99983,
+          "z": 0.999957
+        },
+        "size": {
+          "x": 12.9998178482056,
+          "y": 4.99983358383179,
+          "z": 0.99995744228363
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792591196349628417",
+        "massCenter": {
+          "x": -5.5,
+          "y": 3.49985504150391,
+          "z": 21
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -5.5,
+          "y": 3.49985504150391,
+          "z": 21
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 19.9997,
+          "y": 4.99981,
+          "z": 0.999952
+        },
+        "size": {
+          "x": 19.9997425079346,
+          "y": 4.99981164932251,
+          "z": 0.999952495098114
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792591498381082625",
+        "massCenter": {
+          "x": -7,
+          "y": 3.49985504150391,
+          "z": 33.5
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -7,
+          "y": 3.49985504150391,
+          "z": 33.5
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 17.9998,
+          "y": 4.99986,
+          "z": 0.999965
+        },
+        "size": {
+          "x": 17.9998035430908,
+          "y": 4.99986600875854,
+          "z": 0.999966561794281
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792592010268524545",
+        "massCenter": {
+          "x": 5.00000095367432,
+          "y": 3.49985504150391,
+          "z": 16.5
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 5.00000095367432,
+          "y": 3.49985504150391,
+          "z": 16.5
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 9.9997,
+          "y": 4.99982,
+          "z": 0.999956
+        },
+        "size": {
+          "x": 9.99971961975098,
+          "y": 4.99983263015747,
+          "z": 0.999958217144012
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792592344358633473",
+        "massCenter": {
+          "x": 6.5,
+          "y": 3.49985504150391,
+          "z": 25
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 6.5,
+          "y": 3.49985504150391,
+          "z": 25
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 1.99985,
+          "y": 4.99983,
+          "z": 0.999957
+        },
+        "size": {
+          "x": 1.99984729290009,
+          "y": 4.99983835220337,
+          "z": 0.999958634376526
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792592532013350913",
+        "massCenter": {
+          "x": 10.5,
+          "y": 3.49985504150391,
+          "z": 25
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 10.5,
+          "y": 3.49985504150391,
+          "z": 25
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 1.99985,
+          "y": 4.99983,
+          "z": 0.999957
+        },
+        "size": {
+          "x": 1.99984729290009,
+          "y": 4.99983835220337,
+          "z": 0.999958634376526
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792592652524240897",
+        "massCenter": {
+          "x": 11.9999942779541,
+          "y": 3.49985504150391,
+          "z": 22.5
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 11.9999942779541,
+          "y": 3.49985504150391,
+          "z": 22.5
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 21.9996,
+          "y": 4.99978,
+          "z": 0.999947
+        },
+        "size": {
+          "x": 21.9996032714844,
+          "y": 4.99979066848755,
+          "z": 0.999948620796204
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792592844050595841",
+        "massCenter": {
+          "x": 8.5,
+          "y": 3.49985504150391,
+          "z": 34
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 8.5,
+          "y": 3.49985504150391,
+          "z": 34
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 7.99984,
+          "y": 4.99984,
+          "z": 0.999959
+        },
+        "size": {
+          "x": 7.99984407424927,
+          "y": 4.99984455108643,
+          "z": 0.99996018409729
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792593045910487041",
+        "massCenter": {
+          "x": 8.5,
+          "y": 3.49985504150391,
+          "z": 11
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 8.5,
+          "y": 3.49985504150391,
+          "z": 11
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 7.99984,
+          "y": 4.99984,
+          "z": 0.999959
+        },
+        "size": {
+          "x": 7.99984407424927,
+          "y": 4.99984455108643,
+          "z": 0.99996018409729
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792593346776088577",
+        "massCenter": {
+          "x": 6.5,
+          "y": 3.49985504150391,
+          "z": 20
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 6.5,
+          "y": 3.49985504150391,
+          "z": 20
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 1.99985,
+          "y": 4.99983,
+          "z": 0.999957
+        },
+        "size": {
+          "x": 1.99984729290009,
+          "y": 4.99983835220337,
+          "z": 0.999958634376526
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792593346786787329",
+        "massCenter": {
+          "x": 10.5,
+          "y": 3.49985504150391,
+          "z": 20
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 10.5,
+          "y": 3.49985504150391,
+          "z": 20
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 1.99985,
+          "y": 4.99983,
+          "z": 0.999957
+        },
+        "size": {
+          "x": 1.99984729290009,
+          "y": 4.99983835220337,
+          "z": 0.999958634376526
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792631236519936001",
+        "massCenter": {
+          "x": -15.9999933242798,
+          "y": 3.49985504150391,
+          "z": 16.5
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -15.9999933242798,
+          "y": 3.49985504150391,
+          "z": 16.5
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 9.9997,
+          "y": 4.99982,
+          "z": 0.999956
+        },
+        "size": {
+          "x": 9.99971961975098,
+          "y": 4.99983263015747,
+          "z": 0.999958217144012
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792631415061102593",
+        "massCenter": {
+          "x": -18.9999923706055,
+          "y": 3.49985504150391,
+          "z": 12
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -18.9999923706055,
+          "y": 3.49985504150391,
+          "z": 12
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 24.9995,
+          "y": 4.99976,
+          "z": 0.999942
+        },
+        "size": {
+          "x": 24.9995269775391,
+          "y": 4.99976587295532,
+          "z": 0.999942421913147
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792631893484273665",
+        "massCenter": {
+          "x": -16,
+          "y": 3.49985504150391,
+          "z": 39
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -16,
+          "y": 3.49985504150391,
+          "z": 39
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 6.99981,
+          "y": 4.99981,
+          "z": 0.999952
+        },
+        "size": {
+          "x": 6.99981689453125,
+          "y": 4.99981689453125,
+          "z": 0.999952793121338
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792632189943955457",
+        "massCenter": {
+          "x": -16,
+          "y": 3.49985504150391,
+          "z": 28
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -16,
+          "y": 3.49985504150391,
+          "z": 28
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 6.99981,
+          "y": 4.99981,
+          "z": 0.999952
+        },
+        "size": {
+          "x": 6.99981689453125,
+          "y": 4.99981689453125,
+          "z": 0.999952793121338
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792632403945914369",
+        "massCenter": {
+          "x": -20,
+          "y": 3.49985504150391,
+          "z": 33.5
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -20,
+          "y": 3.49985504150391,
+          "z": 33.5
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 11.9999,
+          "y": 4.99988,
+          "z": 0.999971
+        },
+        "size": {
+          "x": 11.999870300293,
+          "y": 4.99988842010498,
+          "z": 0.99997216463089
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793537812467826689",
+        "massCenter": {
+          "x": -15.9999923706055,
+          "y": 3.49985504150391,
+          "z": 4.50000143051147
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -15.9999923706055,
+          "y": 3.49985504150391,
+          "z": 4.50000143051147
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 9.99953,
+          "y": 4.99974,
+          "z": 0.999936
+        },
+        "size": {
+          "x": 9.99954319000244,
+          "y": 4.99974918365479,
+          "z": 0.999937355518341
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793538383984099329",
+        "massCenter": {
+          "x": -22.5,
+          "y": 3.49985504150391,
+          "z": 1
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -22.5,
+          "y": 3.49985504150391,
+          "z": 1
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 5.99981,
+          "y": 4.9998,
+          "z": 0.99995
+        },
+        "size": {
+          "x": 5.99981021881104,
+          "y": 4.99980878829956,
+          "z": 0.999950766563416
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793539235651731457",
+        "massCenter": {
+          "x": -22.5,
+          "y": 3.49985504150391,
+          "z": -4
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -22.5,
+          "y": 3.49985504150391,
+          "z": -4
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 5.9998,
+          "y": 4.9998,
+          "z": 0.99995
+        },
+        "size": {
+          "x": 5.99980688095093,
+          "y": 4.99980640411377,
+          "z": 0.999951064586639
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793539354871398401",
+        "massCenter": {
+          "x": -19,
+          "y": 3.49985504150391,
+          "z": -3.5
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -19,
+          "y": 3.49985504150391,
+          "z": -3.5
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 0.99978,
+          "y": 4.99969,
+          "z": 1.99986
+        },
+        "size": {
+          "x": 0.999780416488647,
+          "y": 4.99969434738159,
+          "z": 1.99985897541046
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793540053553823745",
+        "massCenter": {
+          "x": -26,
+          "y": 3.49985504150391,
+          "z": -1.5
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -26,
+          "y": 3.49985504150391,
+          "z": -1.5
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 0.999784,
+          "y": 4.99973,
+          "z": 5.9999
+        },
+        "size": {
+          "x": 0.999784886837006,
+          "y": 4.9997353553772,
+          "z": 5.99990034103394
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793540312613076993",
+        "massCenter": {
+          "x": -9,
+          "y": 3.49985504150391,
+          "z": -1
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -9,
+          "y": 3.49985504150391,
+          "z": -1
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 14.9997,
+          "y": 4.99967,
+          "z": 0.999901
+        },
+        "size": {
+          "x": 14.9996662139893,
+          "y": 4.99967288970947,
+          "z": 0.999902248382568
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793540941141999617",
+        "massCenter": {
+          "x": -11,
+          "y": 3.49985504150391,
+          "z": -4
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -11,
+          "y": 3.49985504150391,
+          "z": -4
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 14.9997,
+          "y": 4.9997,
+          "z": 0.999914
+        },
+        "size": {
+          "x": 14.9997529983521,
+          "y": 4.99970436096191,
+          "z": 0.999914884567261
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793541833896656897",
+        "massCenter": {
+          "x": -12.4999828338623,
+          "y": 3.49985504150391,
+          "z": 13.0000114440918
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -12.4999828338623,
+          "y": 3.49985504150391,
+          "z": 13.0000114440918
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": -179.999984741211
+        },
+        "scale": {
+          "x": 5.9998,
+          "y": 4.9998,
+          "z": 0.99995
+        },
+        "size": {
+          "x": 5.99980688095093,
+          "y": 4.99980640411377,
+          "z": 0.999951064586639
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793541833912172545",
+        "massCenter": {
+          "x": -12.499979019165,
+          "y": 3.49985504150391,
+          "z": 8.0000057220459
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -12.499979019165,
+          "y": 3.49985504150391,
+          "z": 8.0000057220459
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": -179.999984741211
+        },
+        "scale": {
+          "x": 5.99981,
+          "y": 4.99981,
+          "z": 0.999951
+        },
+        "size": {
+          "x": 5.99981021881104,
+          "y": 4.99980878829956,
+          "z": 0.999950766563416
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793541833926885377",
+        "massCenter": {
+          "x": -8.99997901916504,
+          "y": 3.49985504150391,
+          "z": 10.5000076293945
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -8.99997901916504,
+          "y": 3.49985504150391,
+          "z": 10.5000076293945
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": -179.999984741211
+        },
+        "scale": {
+          "x": 0.999784,
+          "y": 4.99973,
+          "z": 5.9999
+        },
+        "size": {
+          "x": 0.999784409999847,
+          "y": 4.9997353553772,
+          "z": 5.99990081787109
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793553000289632257",
+        "massCenter": {
+          "x": -0.999995231628418,
+          "y": 3.49985504150391,
+          "z": -8.4999885559082
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -0.999995231628418,
+          "y": 3.49985504150391,
+          "z": -8.4999885559082
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 15.9995,
+          "y": 4.99971,
+          "z": 0.999927
+        },
+        "size": {
+          "x": 15.9994869232178,
+          "y": 4.99971294403076,
+          "z": 0.99992823600769
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793553303507353601",
+        "massCenter": {
+          "x": -3.99999284744263,
+          "y": 3.49985504150391,
+          "z": -10.4999885559082
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -3.99999284744263,
+          "y": 3.49985504150391,
+          "z": -10.4999885559082
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 11.9995,
+          "y": 4.99973,
+          "z": 0.999932
+        },
+        "size": {
+          "x": 11.9995069503784,
+          "y": 4.99972915649414,
+          "z": 0.999933242797852
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d043fadd-fc57-4479-a815-812034f3aae7",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793560187542241281",
+        "massCenter": {
+          "x": -9.5,
+          "y": 5,
+          "z": 43.0016326904297
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Atas",
+        "position": {
+          "x": -9.5,
+          "y": 5,
+          "z": 43.0016326904297
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 2,
+          "y": 2,
+          "z": 0.999994
+        },
+        "size": {
+          "x": 1.99999809265137,
+          "y": 1.99999618530273,
+          "z": 0.999994874000549
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d043fadd-fc57-4479-a815-812034f3aae7",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793560407250763777",
+        "massCenter": {
+          "x": -12,
+          "y": 5,
+          "z": 33.5016326904297
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Atas",
+        "position": {
+          "x": -12,
+          "y": 5,
+          "z": 33.5016326904297
+        },
+        "restitution": 0.2,
+        "scale": {
+          "y": 2,
+          "z": 2
+        },
+        "size": {
+          "x": 0.99999988079071,
+          "y": 1.9999998807907,
+          "z": 1.9999996423721
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d043fadd-fc57-4479-a815-812034f3aae7",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793560650719477761",
+        "massCenter": {
+          "x": -9.5,
+          "y": 5,
+          "z": 24.0016326904297
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Atas",
+        "position": {
+          "x": -9.5,
+          "y": 5,
+          "z": 24.0016326904297
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 2,
+          "y": 2,
+          "z": 0.999994
+        },
+        "size": {
+          "x": 1.99999809265137,
+          "y": 1.99999618530273,
+          "z": 0.999994874000549
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d043fadd-fc57-4479-a815-812034f3aae7",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793560855196778497",
+        "massCenter": {
+          "x": 5,
+          "y": 5,
+          "z": 22.5016326904297
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Atas",
+        "position": {
+          "x": 5,
+          "y": 5,
+          "z": 22.5016326904297
+        },
+        "restitution": 0.2,
+        "scale": {
+          "y": 2,
+          "z": 2
+        },
+        "size": {
+          "x": 0.99999988079071,
+          "y": 1.9999998807907,
+          "z": 1.9999996423721
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d043fadd-fc57-4479-a815-812034f3aae7",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793561173875523585",
+        "massCenter": {
+          "x": 8.5,
+          "y": 5,
+          "z": 25.0016326904297
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Atas",
+        "position": {
+          "x": 8.5,
+          "y": 5,
+          "z": 25.0016326904297
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 2,
+          "y": 2,
+          "z": 0.999994
+        },
+        "size": {
+          "x": 1.99999809265137,
+          "y": 1.99999618530273,
+          "z": 0.999994874000549
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d043fadd-fc57-4479-a815-812034f3aae7",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793561277376675841",
+        "massCenter": {
+          "x": 8.5,
+          "y": 5,
+          "z": 20.0016326904297
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Atas",
+        "position": {
+          "x": 8.5,
+          "y": 5,
+          "z": 20.0016326904297
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 2,
+          "y": 2,
+          "z": 0.999994
+        },
+        "size": {
+          "x": 1.99999809265137,
+          "y": 1.99999618530273,
+          "z": 0.999994874000549
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d043fadd-fc57-4479-a815-812034f3aae7",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793561400892784641",
+        "massCenter": {
+          "x": -16,
+          "y": 5,
+          "z": 10.5016326904297
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Atas",
+        "position": {
+          "x": -16,
+          "y": 5,
+          "z": 10.5016326904297
+        },
+        "restitution": 0.2,
+        "scale": {
+          "y": 2,
+          "z": 2
+        },
+        "size": {
+          "x": 0.99999988079071,
+          "y": 1.9999998807907,
+          "z": 1.9999996423721
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d043fadd-fc57-4479-a815-812034f3aae7",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793561577512468481",
+        "massCenter": {
+          "x": -19,
+          "y": 5,
+          "z": -1.49836730957031
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Atas",
+        "position": {
+          "x": -19,
+          "y": 5,
+          "z": -1.49836730957031
+        },
+        "restitution": 0.2,
+        "scale": {
+          "y": 2,
+          "z": 2
+        },
+        "size": {
+          "x": 0.99999988079071,
+          "y": 1.9999998807907,
+          "z": 1.9999996423721
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793579544705695745",
+        "massCenter": {
+          "x": -6.5,
+          "y": 3.49985504150391,
+          "z": -17
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -6.5,
+          "y": 3.49985504150391,
+          "z": -17
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 5.9998,
+          "y": 4.9998,
+          "z": 0.99995
+        },
+        "size": {
+          "x": 5.99980688095093,
+          "y": 4.99980640411377,
+          "z": 0.999951064586639
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793579979066982401",
+        "massCenter": {
+          "x": 1.5,
+          "y": 3.49985504150391,
+          "z": -17
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 1.5,
+          "y": 3.49985504150391,
+          "z": -17
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 5.9998,
+          "y": 4.9998,
+          "z": 0.99995
+        },
+        "size": {
+          "x": 5.99980688095093,
+          "y": 4.99980640411377,
+          "z": 0.999951064586639
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793580086600663041",
+        "massCenter": {
+          "x": -2.5,
+          "y": 3.49985504150391,
+          "z": -24
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -2.5,
+          "y": 3.49985504150391,
+          "z": -24
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 13.9998,
+          "y": 4.99977,
+          "z": 0.999943
+        },
+        "size": {
+          "x": 13.9997587203979,
+          "y": 4.99977540969849,
+          "z": 0.999943792819977
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793580456136589313",
+        "massCenter": {
+          "x": -9.99998664855957,
+          "y": 3.49985504150391,
+          "z": -20.4999866485596
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": -9.99998664855957,
+          "y": 3.49985504150391,
+          "z": -20.4999866485596
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 7.99945,
+          "y": 4.9997,
+          "z": 0.999925
+        },
+        "size": {
+          "x": 7.99945783615112,
+          "y": 4.99970865249634,
+          "z": 0.999926626682281
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "341736f5-d4ba-4586-ae41-5b77da5b6e9f",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793580697224495105",
+        "massCenter": {
+          "x": 5.00000858306885,
+          "y": 3.49985504150391,
+          "z": -20.4999866485596
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Tembok",
+        "position": {
+          "x": 5.00000858306885,
+          "y": 3.49985504150391,
+          "z": -20.4999866485596
+        },
+        "restitution": 0.2,
+        "rotation": {
+          "y": 90
+        },
+        "scale": {
+          "x": 7.99945,
+          "y": 4.9997,
+          "z": 0.999925
+        },
+        "size": {
+          "x": 7.99945783615112,
+          "y": 4.99970865249634,
+          "z": 0.999926626682281
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d043fadd-fc57-4479-a815-812034f3aae7",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8793580871329431553",
+        "massCenter": {
+          "x": -2.5,
+          "y": 5,
+          "z": -16.9983673095703
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Atas",
+        "position": {
+          "x": -2.5,
+          "y": 5,
+          "z": -16.9983673095703
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 2,
+          "y": 2,
+          "z": 0.999994
+        },
+        "size": {
+          "x": 1.99999809265137,
+          "y": 1.99999618530273,
+          "z": 0.999994874000549
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "6d9135c3-549f-485a-b4ca-4fe8813d89ba",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8795353067911397377",
+        "massCenter": {
+          "x": -9.50378322601318,
+          "y": 2.49988698959351,
+          "z": 42.9660911560059
+        },
+        "material": {
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Sekunder",
+        "position": {
+          "x": -9.50378322601318,
+          "y": 2.49988698959351,
+          "z": 42.9660911560059
+        },
+        "restitution": 0.18,
+        "scale": {
+          "x": 1.99999,
+          "y": 2.99998,
+          "z": 0.999989
+        },
+        "size": {
+          "x": 1.99999618530273,
+          "y": 2.99998474121094,
+          "z": 0.999990582466125
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "5804bc1b-cbea-47a9-aba4-1fc5813f47d0",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8795359097859424257",
+        "massCenter": {
+          "x": -2.99942278862,
+          "y": 2.48999881744385,
+          "z": 46.4721984863281
+        },
+        "material": {
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Utama",
+        "position": {
+          "x": -2.99942278862,
+          "y": 2.48999881744385,
+          "z": 46.4721984863281
+        },
+        "restitution": 0.18,
+        "scale": {
+          "y": 3,
+          "z": 2
+        },
+        "size": {
+          "x": 0.99999982118607,
+          "y": 2.9999997615814,
+          "z": 1.9999994039536
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "2f902f3d-e140-4372-890d-f10356175843",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8795374946905817089",
+        "massCenter": {
+          "x": -12.0037832260132,
+          "y": 2.49988698959351,
+          "z": 33.4660911560059
+        },
+        "material": {
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Sekunder",
+        "position": {
+          "x": -12.0037832260132,
+          "y": 2.49988698959351,
+          "z": 33.4660911560059
+        },
+        "restitution": 0.18,
+        "scale": {
+          "x": 0.999985,
+          "y": 2.99996,
+          "z": 1.99998
+        },
+        "size": {
+          "x": 0.999986231327057,
+          "y": 2.99996614456177,
+          "z": 1.99998199939728
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "fbc340da-7761-4227-bcde-1be4777093a0",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8795375741398794241",
+        "massCenter": {
+          "x": 5.00057697296143,
+          "y": 2.48999881744385,
+          "z": 22.4721984863281
+        },
+        "material": {
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Utama",
+        "position": {
+          "x": 5.00057697296143,
+          "y": 2.48999881744385,
+          "z": 22.4721984863281
+        },
+        "restitution": 0.18,
+        "scale": {
+          "y": 3,
+          "z": 2
+        },
+        "size": {
+          "x": 0.99999982118607,
+          "y": 2.9999997615814,
+          "z": 1.9999994039536
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "2a3d7273-1b99-471a-9de4-308df3d0f059",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8795376026869825537",
+        "massCenter": {
+          "x": 8.49621677398682,
+          "y": 2.49988698959351,
+          "z": 24.9660911560059
+        },
+        "material": {
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Sekunder",
+        "position": {
+          "x": 8.49621677398682,
+          "y": 2.49988698959351,
+          "z": 24.9660911560059
+        },
+        "restitution": 0.18,
+        "scale": {
+          "x": 1.99998,
+          "y": 2.99995,
+          "z": 0.999975
+        },
+        "size": {
+          "x": 1.99998307228088,
+          "y": 2.99995231628418,
+          "z": 0.999975204467773
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "3cca3e51-8539-4d3f-ac5e-e7db2b4b1123",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8795376422765150209",
+        "massCenter": {
+          "x": 8.49621677398682,
+          "y": 2.49988698959351,
+          "z": 19.9660911560059
+        },
+        "material": {
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Sekunder",
+        "position": {
+          "x": 8.49621677398682,
+          "y": 2.49988698959351,
+          "z": 19.9660911560059
+        },
+        "restitution": 0.18,
+        "scale": {
+          "x": 1.99998,
+          "y": 2.99995,
+          "z": 0.999975
+        },
+        "size": {
+          "x": 1.99998307228088,
+          "y": 2.99995231628418,
+          "z": 0.999975204467773
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "2ec2acbb-2de1-4bca-bc64-18271978e7c0",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8795376641353744385",
+        "massCenter": {
+          "x": -9.50378322601318,
+          "y": 2.49988698959351,
+          "z": 23.9660911560059
+        },
+        "material": {
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Sekunder",
+        "position": {
+          "x": -9.50378322601318,
+          "y": 2.49988698959351,
+          "z": 23.9660911560059
+        },
+        "restitution": 0.18,
+        "scale": {
+          "x": 1.99998,
+          "y": 2.99995,
+          "z": 0.999971
+        },
+        "size": {
+          "x": 1.9999817609787,
+          "y": 2.9999520778656,
+          "z": 0.999972224235535
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "e0ea8324-4dad-4a93-b27e-5a6035ae1c7c",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8795377064136949761",
+        "massCenter": {
+          "x": -15.9994230270386,
+          "y": 2.48999881744385,
+          "z": 10.4721984863281
+        },
+        "material": {
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Utama",
+        "position": {
+          "x": -15.9994230270386,
+          "y": 2.48999881744385,
+          "z": 10.4721984863281
+        },
+        "restitution": 0.18,
+        "scale": {
+          "y": 3,
+          "z": 2
+        },
+        "size": {
+          "x": 0.99999982118607,
+          "y": 2.9999997615814,
+          "z": 1.9999994039536
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "9c1b7217-13c0-4621-abbb-eee9be5ca7a7",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8795377393664032769",
+        "massCenter": {
+          "x": -19.0037841796875,
+          "y": 2.49988698959351,
+          "z": -1.53390884399414
+        },
+        "material": {
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Sekunder",
+        "position": {
+          "x": -19.0037841796875,
+          "y": 2.49988698959351,
+          "z": -1.53390884399414
+        },
+        "restitution": 0.18,
+        "scale": {
+          "x": 0.999985,
+          "y": 2.99996,
+          "z": 1.99998
+        },
+        "size": {
+          "x": 0.999986231327057,
+          "y": 2.99996614456177,
+          "z": 1.99998199939728
+        },
+        "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "62e2dfee-b247-45c1-99b8-f9344621bf43",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8795377647893512193",
+        "massCenter": {
+          "x": -2.49942302703857,
+          "y": 2.48999881744385,
+          "z": -17.0278015136719
+        },
+        "material": {
+          "texture": "part_boli.tga"
+        },
+        "name": "Lawang Utama",
+        "position": {
+          "x": -2.49942302703857,
+          "y": 2.48999881744385,
+          "z": -17.0278015136719
+        },
+        "restitution": 0.18,
+        "scale": {
+          "x": 2,
+          "y": 2.99999,
+          "z": 0.999996
+        },
+        "size": {
+          "x": 1.99999868869781,
+          "y": 2.99999451637268,
+          "z": 0.999996542930603
+        },
+        "useAnchor": true
       }
     ],
     "name": {
@@ -39,7 +2594,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "4b7045326288b3c76b270325a5967e54"
+      "setting.json": "5cc7dd3d1662371150dd2833795a7ac4"
     },
     "VERSION": "0.23"
   }

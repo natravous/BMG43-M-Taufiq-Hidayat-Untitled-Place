@@ -1881,38 +1881,6 @@
       {
         "__OBJ_TYPE": "Instance_Part",
         "batchType": "Dynamic",
-        "btsKey": "3ba1b14c-11d9-44af-8c0b-5f7f5a00f128",
-        "density": 2.5,
-        "friction": 0.28,
-        "id": "8782102688530808833",
-        "massCenter": {
-          "x": -46.9715194702148,
-          "y": 5.00228309631348,
-          "z": 4.5
-        },
-        "material": {
-          "texture": "part_muban.tga"
-        },
-        "position": {
-          "x": -46.9715194702148,
-          "y": 5.00228309631348,
-          "z": 4.5
-        },
-        "restitution": 0.2,
-        "scale": {
-          "y": 2,
-          "z": 2
-        },
-        "size": {
-          "x": 0.99999988079071,
-          "y": 1.9999998807907,
-          "z": 1.9999996423721
-        },
-        "useAnchor": true
-      },
-      {
-        "__OBJ_TYPE": "Instance_Part",
-        "batchType": "Dynamic",
         "btsKey": "62d36c26-0142-4abb-9eaa-8096be4ae770",
         "density": 2.5,
         "friction": 0.28,
@@ -2520,6 +2488,39 @@
           "z": 1.580979347229
         },
         "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "49bad323-841c-4066-9723-55e2e2259db3",
+        "density": 2.5,
+        "friction": 0.28,
+        "id": "8792025112374476801",
+        "massCenter": {
+          "x": -47.001766204834,
+          "y": 4.99989938735962,
+          "z": 4.49806547164917
+        },
+        "material": {
+          "texture": "part_muban.tga"
+        },
+        "name": "Atas",
+        "position": {
+          "x": -47.001766204834,
+          "y": 4.99989938735962,
+          "z": 4.49806547164917
+        },
+        "restitution": 0.2,
+        "scale": {
+          "y": 2,
+          "z": 2
+        },
+        "size": {
+          "x": 0.99999988079071,
+          "y": 1.9999998807907,
+          "z": 1.9999996423721
+        },
+        "useAnchor": true
       }
     ],
     "name": {
@@ -2531,7 +2532,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "182ecbda51deccd8bb218e22403ef08c"
+      "setting.json": "640065084da7c6ad248cdc403c651e79"
     },
     "VERSION": "0.23"
   }

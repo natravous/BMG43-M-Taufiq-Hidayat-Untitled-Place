@@ -1,5 +1,0 @@
-PART_CLICKED {
-	If (@isCheck) {
-		DestoryPart(part = $part1)
-	}
-}
