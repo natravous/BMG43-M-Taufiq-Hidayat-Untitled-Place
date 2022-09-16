@@ -1,0 +1,84 @@
+{
+  "data": {
+    "icon": {
+      "asset": "asset/Mesh/Gold Chain Key/g2030_baoxiangKey_1.tga"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemEquip"
+      }
+    },
+    "mesh": {
+      "asset": "asset/Mesh/Gold Chain Key/g2030_baoxiangKey_1.mesh"
+    },
+    "name": {
+      "value": "item_329a5095-4655-4e8d-ab00-9526a3a4ea6f"
+    },
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_SetGlobalVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_GlobalVar",
+                        "rawval": "haveKey"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool",
+                        "rawval": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "85ad46a5-ebfb-47a7-ac48-5696a64b5c40"
+              },
+              "pos": {
+                "x": 737,
+                "y": 318
+              }
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "462546c9-7d91-400f-b283-a337948177d0"
+            },
+            "type": "Trigger_Hand"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "85ad46a5-ebfb-47a7-ac48-5696a64b5c40"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "87e80b5a-c489-483f-bed2-c7cc5552dff1"
+            }
+          },
+          "type": "Trigger_Hand"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "d3ebd035f053a691e61ba8a67bcd24b6",
+      "triggers.bts": "3c2a866db191c85162a0d27d128e60b3"
+    },
+    "VERSION": "0.24"
+  }
+}

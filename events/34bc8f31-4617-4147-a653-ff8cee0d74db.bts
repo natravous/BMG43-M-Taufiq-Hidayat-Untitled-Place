@@ -1,0 +1,4 @@
+PART_CLICKED {
+	@isCheck = true
+	SetPartMaterialTexture(material = "part_mutou.tga", part = $part1)
+}

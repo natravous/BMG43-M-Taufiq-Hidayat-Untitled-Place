@@ -1,0 +1,149 @@
+{
+  "data": {
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_AddItem",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "95b1d075-7667-427f-aa2a-d1c20a396887"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ItemEntry",
+                        "rawval": "myplugin/329a5095-4655-4e8d-ab00-9526a3a4ea6f"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Int"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_String"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "b17b7a12-8fa2-4bc9-b5c8-bb80ced1946c"
+              },
+              "pos": {
+                "x": 680,
+                "y": 343
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "from"
+                }
+              ],
+              "id": {
+                "value": "95b1d075-7667-427f-aa2a-d1c20a396887"
+              },
+              "pos": {
+                "x": 1145,
+                "y": 298
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_SetPartOperationMaterialTexture",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_PartOperation",
+                        "action": "27c38da1-ec83-45f8-a05d-1b8fa05108d1"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_PartTexture",
+                        "rawval": "part_shihuizhuan.tga"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "49804ddb-dc02-4ba0-ab16-9b161a9f8428"
+              },
+              "pos": {
+                "x": 507,
+                "y": 525
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "part1"
+                }
+              ],
+              "id": {
+                "value": "27c38da1-ec83-45f8-a05d-1b8fa05108d1"
+              },
+              "pos": {
+                "x": 902,
+                "y": 608
+              },
+              "type": "T_PartOperation"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "3a9b895f-e239-4f59-be02-553aa3a7c448"
+            },
+            "type": "Trigger_PartOperationClicked"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "b17b7a12-8fa2-4bc9-b5c8-bb80ced1946c"
+                  },
+                  {
+                    "action": "49804ddb-dc02-4ba0-ab16-9b161a9f8428"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "5452a8e6-0243-4120-af1b-95204ca8efab"
+            },
+            "pos": {
+              "x": 219,
+              "y": 303
+            }
+          },
+          "type": "Trigger_PartOperationClicked"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "triggers.bts": "04039c3a55c50319555228a5bc6f0d10"
+    },
+    "VERSION": "0.24"
+  }
+}

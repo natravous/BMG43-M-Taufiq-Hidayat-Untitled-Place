@@ -2371,7 +2371,7 @@
               "x": 100,
               "y": 100
             },
-            "textDecalText": "Click here!",
+            "textDecalText": "",
             "textDecalVertFormatting": "CentreAligned"
           }
         ],
@@ -2382,6 +2382,13 @@
           "x": -52.4191360473633,
           "y": 3.42750024795532,
           "z": 4.81941795349121
+        },
+        "material": {
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         },
         "position": {
           "x": -52.4191360473633,
@@ -2532,8 +2539,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "640065084da7c6ad248cdc403c651e79"
+      "setting.json": "54358a219e519dd1ec57b02ff39b5f90"
     },
-    "VERSION": "0.23"
+    "VERSION": "0.24"
   }
 }

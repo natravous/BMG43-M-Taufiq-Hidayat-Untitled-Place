@@ -1,0 +1,128 @@
+{
+  "data": {
+    "md5": "8e5590a4ad631f13d8dfe68c6eac233f",
+    "path": "asset/Prompt.layout",
+    "root": {
+      "Alpha": 0.979,
+      "children": [
+        {
+          "__OBJ_TYPE": "StaticText",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "AutoScale": "2",
+          "Font_size": 38,
+          "HorzFormatting": "CentreAligned",
+          "id": {
+            "value": "6e52a63d-7c1d-4b78-aadb-7ba2d42b8470"
+          },
+          "pos": {
+            "UDim_X": {
+              "Offect": -0.2499587117663
+            },
+            "UDim_Y": {
+              "Offect": -0.1023970785573
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 263
+            },
+            "UDim_Y": {
+              "Offect": 66.3089
+            }
+          },
+          "Text": "Well done!!!",
+          "text_key": {
+            "value": "asset/Prompt.layout.StaticText#d4e74cc2-3094-4214-9d99-59ec7e6e06c8"
+          },
+          "TextBoldWeight": "1",
+          "TextColours": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "VertFormatting": "CentreAligned",
+          "word_warpped": false
+        },
+        {
+          "__OBJ_TYPE": "Button",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Bottom"
+          },
+          "id": {
+            "value": "0612a30b-8e45-4ccb-9c77-79f364327617"
+          },
+          "name": "BackButton",
+          "pos": {
+            "UDim_X": {
+              "Offect": -0.3007674495798
+            },
+            "UDim_Y": {
+              "Offect": -262.704801085533
+            }
+          },
+          "Text": "Back",
+          "text_key": {
+            "value": "asset/Prompt.layout.Button#7ed1e847-14f3-4442-a935-89080d752ef0"
+          },
+          "triggers": {
+            "list": [
+              {
+                "custom_trigger_data": {
+                  "name": {
+                    "value": "2455a6bd-91b9-4070-bb5b-6c72752c58db"
+                  },
+                  "type": "Trigger_WidgetClicked"
+                },
+                "root": {
+                  "components": [
+                    {
+                      "__OBJ_TYPE": "Component_Sequence",
+                      "children": [
+                        []
+                      ]
+                    }
+                  ],
+                  "id": {
+                    "value": "63d7f48f-cb82-4749-a6a5-d540fc74d9cb"
+                  },
+                  "pos": {
+                    "x": 153,
+                    "y": 136
+                  }
+                },
+                "type": "Trigger_WidgetClicked"
+              }
+            ]
+          }
+        }
+      ],
+      "id": {
+        "value": "19ccba16-02ee-4eeb-bcac-b7927546ef9f"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": 1.0837563276291
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 1324.44415676653
+        },
+        "UDim_Y": {
+          "Offect": 717.469876170164
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "8e5590a4ad631f13d8dfe68c6eac233f",
+      "triggers.bts": "3e995681960380a7cb51725a9c5e9f86"
+    },
+    "VERSION": "0.24"
+  }
+}

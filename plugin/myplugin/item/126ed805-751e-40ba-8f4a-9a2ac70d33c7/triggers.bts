@@ -1,0 +1,6 @@
+DROPITEM_PICKED {
+}
+
+HAND_ITEM_CHANGED_HAND {
+	@mainKey = true
+}

@@ -1,0 +1,22 @@
+{
+  "canAbandon": false,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 0.2,
+  "equip_skill": [],
+  "equip_skin": {
+    "": ""
+  },
+  "icon": "@asset/Mesh/Gold Chain Key/g2030_baoxiangKey_1.tga",
+  "itemname": "item_126ed805-751e-40ba-8f4a-9a2ac70d33c7",
+  "mesh": "asset/Mesh/Gold Chain Key/g2030_baoxiangKey_1.mesh",
+  "needSave": true,
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false,
+  "tray": []
+}

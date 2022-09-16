@@ -2263,8 +2263,8 @@
         "__OBJ_TYPE": "Instance_Part",
         "batchType": "Dynamic",
         "btsKey": "5804bc1b-cbea-47a9-aba4-1fc5813f47d0",
-        "density": 2.2,
-        "friction": 0.15,
+        "density": 2.93,
+        "friction": 0.74,
         "id": "8795359097859424257",
         "massCenter": {
           "x": -2.99942278862,
@@ -2272,7 +2272,7 @@
           "z": 46.4721984863281
         },
         "material": {
-          "texture": "part_boli.tga"
+          "texture": "part_shihuizhuan.tga"
         },
         "name": "Lawang Utama",
         "position": {
@@ -2280,7 +2280,7 @@
           "y": 2.48999881744385,
           "z": 46.4721984863281
         },
-        "restitution": 0.18,
+        "restitution": 0.2,
         "scale": {
           "y": 3,
           "z": 2
@@ -2335,8 +2335,8 @@
         "__OBJ_TYPE": "Instance_Part",
         "batchType": "Dynamic",
         "btsKey": "fbc340da-7761-4227-bcde-1be4777093a0",
-        "density": 2.2,
-        "friction": 0.15,
+        "density": 1.26,
+        "friction": 0.28,
         "id": "8795375741398794241",
         "massCenter": {
           "x": 5.00057697296143,
@@ -2344,7 +2344,7 @@
           "z": 22.4721984863281
         },
         "material": {
-          "texture": "part_boli.tga"
+          "texture": "part_mutou.tga"
         },
         "name": "Lawang Utama",
         "position": {
@@ -2352,7 +2352,7 @@
           "y": 2.48999881744385,
           "z": 22.4721984863281
         },
-        "restitution": 0.18,
+        "restitution": 0.15,
         "scale": {
           "y": 3,
           "z": 2
@@ -2485,8 +2485,8 @@
         "__OBJ_TYPE": "Instance_Part",
         "batchType": "Dynamic",
         "btsKey": "e0ea8324-4dad-4a93-b27e-5a6035ae1c7c",
-        "density": 2.2,
-        "friction": 0.15,
+        "density": 1.26,
+        "friction": 0.28,
         "id": "8795377064136949761",
         "massCenter": {
           "x": -15.9994230270386,
@@ -2494,7 +2494,7 @@
           "z": 10.4721984863281
         },
         "material": {
-          "texture": "part_boli.tga"
+          "texture": "part_mutou.tga"
         },
         "name": "Lawang Utama",
         "position": {
@@ -2502,7 +2502,7 @@
           "y": 2.48999881744385,
           "z": 10.4721984863281
         },
-        "restitution": 0.18,
+        "restitution": 0.15,
         "scale": {
           "y": 3,
           "z": 2
@@ -2557,8 +2557,8 @@
         "__OBJ_TYPE": "Instance_Part",
         "batchType": "Dynamic",
         "btsKey": "62e2dfee-b247-45c1-99b8-f9344621bf43",
-        "density": 2.2,
-        "friction": 0.15,
+        "density": 2.5,
+        "friction": 0.28,
         "id": "8795377647893512193",
         "massCenter": {
           "x": -2.49942302703857,
@@ -2566,7 +2566,7 @@
           "z": -17.0278015136719
         },
         "material": {
-          "texture": "part_boli.tga"
+          "texture": "part_muban.tga"
         },
         "name": "Lawang Utama",
         "position": {
@@ -2574,7 +2574,7 @@
           "y": 2.48999881744385,
           "z": -17.0278015136719
         },
-        "restitution": 0.18,
+        "restitution": 0.2,
         "scale": {
           "x": 2,
           "y": 2.99999,
@@ -2586,6 +2586,370 @@
           "z": 0.999996542930603
         },
         "useAnchor": true
+      },
+      {
+        "__OBJ_TYPE": "Instance_PartOperation",
+        "batchType": "Dynamic",
+        "btsKey": "13244387-d3cf-44b6-999c-789afe148cb7",
+        "collisionUniqueKey": "8805379616629145601",
+        "componentList": [
+          {
+            "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
+            "btsKey": "94ba541a-0b9a-4e62-a939-2e72fc95da6a",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8805379616645103617",
+            "massCenter": {
+              "x": 12.947834014893,
+              "y": 2.0654125213623,
+              "z": 28.583181381226
+            },
+            "position": {
+              "x": 12.947834014893,
+              "y": 2.0654125213623,
+              "z": 28.583181381226
+            },
+            "restitution": 0.3,
+            "scale": {
+              "x": 1.58099,
+              "y": 0.127985,
+              "z": 1.58098
+            },
+            "shape": "3",
+            "size": {
+              "x": 1.5809878110886,
+              "y": 0.12798482179642,
+              "z": 1.5809766054153
+            }
+          },
+          {
+            "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
+            "btsKey": "6dc81700-ad20-4d49-b28a-92493cf5cf19",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8805379616661880833",
+            "massCenter": {
+              "x": 12.947834014893,
+              "y": 1.4998998641968,
+              "z": 28.583181381226
+            },
+            "position": {
+              "x": 12.947834014893,
+              "y": 1.4998998641968,
+              "z": 28.583181381226
+            },
+            "restitution": 0.3,
+            "shape": "3"
+          }
+        ],
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8805379616629145601",
+        "massCenter": {
+          "x": 3.35639619827271,
+          "y": 1.56465268135071,
+          "z": 44.9438629150391
+        },
+        "material": {
+          "texture": "part_boli.tga"
+        },
+        "mergeShapesDataKey": "8805379616629587969",
+        "name": "Meja",
+        "position": {
+          "x": 3.35639619827271,
+          "y": 1.56465268135071,
+          "z": 44.9438629150391
+        },
+        "restitution": 0.18,
+        "scale": {
+          "x": 1.58099,
+          "y": 0.127985,
+          "z": 1.58098
+        },
+        "size": {
+          "x": 1.5809895992279,
+          "y": 1.1295050382614,
+          "z": 1.580979347229
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_RegionPart",
+        "cfgName": "myplugin/675c5383-2881-4ebf-8de3-f0ad73393284",
+        "id": "8805387029697249281",
+        "position": {
+          "x": -15.1607809066772,
+          "y": 1.49989986419678,
+          "z": 46.3769149780273
+        },
+        "scale": {
+          "x": 0.503858,
+          "y": 0.999985,
+          "z": 5.80089
+        },
+        "size": {
+          "x": 0.503858387470245,
+          "y": 0.99998551607132,
+          "z": 5.80089426040649
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_PartOperation",
+        "batchType": "Dynamic",
+        "btsKey": "34bc8f31-4617-4147-a653-ff8cee0d74db",
+        "collisionUniqueKey": "8805401420931776513",
+        "componentList": [
+          {
+            "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
+            "btsKey": "b1b9ea5e-3904-4e90-a2f2-4acb4b3ca816",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8805401420942983169",
+            "massCenter": {
+              "x": 12.947834014893,
+              "y": 2.0654125213623,
+              "z": 28.583181381226
+            },
+            "position": {
+              "x": 12.947834014893,
+              "y": 2.0654125213623,
+              "z": 28.583181381226
+            },
+            "restitution": 0.3,
+            "scale": {
+              "x": 1.58099,
+              "y": 0.127985,
+              "z": 1.58098
+            },
+            "shape": "3",
+            "size": {
+              "x": 1.5809878110886,
+              "y": 0.12798482179642,
+              "z": 1.5809766054153
+            }
+          },
+          {
+            "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
+            "btsKey": "68471889-acf6-4bb5-9ea0-f1090f37fecf",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8805401420954173441",
+            "massCenter": {
+              "x": 12.947834014893,
+              "y": 1.4998998641968,
+              "z": 28.583181381226
+            },
+            "position": {
+              "x": 12.947834014893,
+              "y": 1.4998998641968,
+              "z": 28.583181381226
+            },
+            "restitution": 0.3,
+            "shape": "3"
+          }
+        ],
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8805401420931776513",
+        "massCenter": {
+          "x": -24.3631324768066,
+          "y": 1.56465244293213,
+          "z": -2.36503028869629
+        },
+        "mergeShapesDataKey": "8805401420932022273",
+        "name": "Meja",
+        "position": {
+          "x": -24.3631324768066,
+          "y": 1.56465244293213,
+          "z": -2.36503028869629
+        },
+        "restitution": 0.3,
+        "scale": {
+          "x": 1.58099,
+          "y": 0.127985,
+          "z": 1.58098
+        },
+        "size": {
+          "x": 1.5809895992279,
+          "y": 1.1295050382614,
+          "z": 1.580979347229
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_PartOperation",
+        "batchType": "Dynamic",
+        "btsKey": "0cb4673c-f686-4e50-b482-0e624062bcd9",
+        "collisionUniqueKey": "8805379616629145601",
+        "componentList": [
+          {
+            "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
+            "btsKey": "94ba541a-0b9a-4e62-a939-2e72fc95da6a",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8805427736658837505",
+            "massCenter": {
+              "x": 12.947834014893,
+              "y": 2.0654125213623,
+              "z": 28.583181381226
+            },
+            "position": {
+              "x": 12.947834014893,
+              "y": 2.0654125213623,
+              "z": 28.583181381226
+            },
+            "restitution": 0.3,
+            "scale": {
+              "x": 1.58099,
+              "y": 0.127985,
+              "z": 1.58098
+            },
+            "shape": "3",
+            "size": {
+              "x": 1.5809878110886,
+              "y": 0.12798482179642,
+              "z": 1.5809766054153
+            }
+          },
+          {
+            "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
+            "btsKey": "6dc81700-ad20-4d49-b28a-92493cf5cf19",
+            "density": 2.2,
+            "friction": 0.37,
+            "id": "8805427736664932353",
+            "massCenter": {
+              "x": 12.947834014893,
+              "y": 1.4998998641968,
+              "z": 28.583181381226
+            },
+            "position": {
+              "x": 12.947834014893,
+              "y": 1.4998998641968,
+              "z": 28.583181381226
+            },
+            "restitution": 0.3,
+            "shape": "3"
+          }
+        ],
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8805427736652185601",
+        "massCenter": {
+          "x": 10.3563957214355,
+          "y": 1.56465268135071,
+          "z": 30.9438629150391
+        },
+        "material": {
+          "texture": "part_boli.tga"
+        },
+        "mergeShapesDataKey": "8805379616629587969",
+        "name": "Meja",
+        "position": {
+          "x": 10.3563957214355,
+          "y": 1.56465268135071,
+          "z": 30.9438629150391
+        },
+        "restitution": 0.18,
+        "scale": {
+          "x": 1.58099,
+          "y": 0.127985,
+          "z": 1.58098
+        },
+        "size": {
+          "x": 1.5809895992279,
+          "y": 1.1295050382614,
+          "z": 1.580979347229
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "c18ae4d1-dfc8-4e60-af50-8c600f346d43",
+        "density": 2.7,
+        "friction": 0.61,
+        "id": "8805432305314037761",
+        "massCenter": {
+          "x": -10.1859760284424,
+          "y": 2.99989891052246,
+          "z": 9.250075340271
+        },
+        "material": {
+          "texture": "part_shiban.tga"
+        },
+        "position": {
+          "x": -10.1859760284424,
+          "y": 2.99989891052246,
+          "z": 9.250075340271
+        },
+        "restitution": 0.17,
+        "scale": {
+          "x": 0.999994,
+          "y": 3.99998,
+          "z": 0.999989
+        },
+        "shape": "3",
+        "size": {
+          "x": 0.999995470046997,
+          "y": 3.99998736381531,
+          "z": 0.999990940093994
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "c71a6e43-7ceb-4e49-8291-5415f3b00134",
+        "density": 2.7,
+        "friction": 0.61,
+        "id": "8805432635705409537",
+        "massCenter": {
+          "x": -10.1859760284424,
+          "y": 2.99989891052246,
+          "z": 10.250075340271
+        },
+        "material": {
+          "texture": "part_shiban.tga"
+        },
+        "position": {
+          "x": -10.1859760284424,
+          "y": 2.99989891052246,
+          "z": 10.250075340271
+        },
+        "restitution": 0.17,
+        "scale": {
+          "x": 0.999994,
+          "y": 3.99998,
+          "z": 0.999989
+        },
+        "shape": "3",
+        "size": {
+          "x": 0.999995470046997,
+          "y": 3.99998736381531,
+          "z": 0.999990940093994
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_RegionPart",
+        "cfgName": "myplugin/f59a1ee7-7147-406f-9321-76eaca3647c5",
+        "id": "8805443908605558785",
+        "position": {
+          "x": -2.40273284912109,
+          "y": 1.49989986419678,
+          "z": -20.6686630249023
+        },
+        "scale": {
+          "x": 8.99993,
+          "y": 0.999991,
+          "z": 3.99995
+        },
+        "size": {
+          "x": 8.9999361038208,
+          "y": 0.999991834163666,
+          "z": 3.99995851516724
+        }
       }
     ],
     "name": {
@@ -2594,8 +2958,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "5cc7dd3d1662371150dd2833795a7ac4"
+      "setting.json": "e0ca41c9a8fabef52cb16f67114f6126"
     },
-    "VERSION": "0.23"
+    "VERSION": "0.24"
   }
 }

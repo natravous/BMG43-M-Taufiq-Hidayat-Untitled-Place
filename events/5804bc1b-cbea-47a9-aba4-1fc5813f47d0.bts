@@ -1,8 +1,9 @@
 PART_CLICKED {
-	If (@isCheck) {
+	If (@haveKey) {
 		SetPartAlpha(alpha = 0, part = $part1)
 		SetPartUseCollide(part = $part1, useCollide = false)
 	}
+	ConsumeItem2(entity = $from, item = "myplugin/329a5095-4655-4e8d-ab00-9526a3a4ea6f", num = 1, reason = "")
 }
 
 PART_TOUCH_ENTITY_END {

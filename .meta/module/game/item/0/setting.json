@@ -10,7 +10,7 @@
       "map": "map001",
       "pos": {
         "x": 7,
-        "y": 1.0399001026154,
+        "y": 1.04,
         "z": 37
       }
     },
@@ -26,7 +26,7 @@
       "map": "map001",
       "pos": {
         "x": 9,
-        "y": 1.0399003410339,
+        "y": 1,
         "z": 16
       }
     },
@@ -56,17 +56,31 @@
           "value": {
             "__OBJ_TYPE": "T_Entity"
           }
+        },
+        {
+          "key": "haveKey",
+          "type": "bool",
+          "value": {
+            "__OBJ_TYPE": "T_Bool"
+          }
+        },
+        {
+          "key": "mainKey",
+          "type": "bool",
+          "value": {
+            "__OBJ_TYPE": "T_Bool"
+          }
         }
       ]
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "bc0322bd814e5d5b738503d2e6ae7810",
+      "setting.json": "ad935c8edc248bc1f623bc932dcfe84a",
       "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
       "triggers.bts": "",
       "triggers_client.bts": ""
     },
-    "VERSION": "0.23"
+    "VERSION": "0.24"
   }
 }

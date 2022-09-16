@@ -1,0 +1,4 @@
+PART_CLICKED {
+	AddItem(cfg = "myplugin/126ed805-751e-40ba-8f4a-9a2ac70d33c7", count = 1, entity = $from, reason = "")
+	SetPartMaterialTexture(material = "part_muban.tga", part = $part1)
+}

@@ -1,6 +1,9 @@
 {
   "additionalData": {
-    "local_transform": [],
+    "local_transform": [
+      "1.58099 0 0 0 0.127985 0 0 0 1.58098 0 -2.38419e-07 0",
+      "1 0 0 0 1 0 0 0 1 0 -0.565513 0"
+    ],
     "tillBaseScale": {
       "x": 1.58098971843719,
       "y": 0.127984970808029,
@@ -33,6 +36,9 @@
         "isLockedInEditor": "false",
         "isSelectInEditor": "false",
         "isVisibleInEditor": "true",
+        "lcl_position": "x:12.9478 y:2.06541 z:28.5832",
+        "lcl_rotation": "x:-0 y:0 z:0",
+        "lcl_scale": "x:1.58099 y:0.127985 z:1.58098",
         "lineVelocity": "x:0 y:0 z:0",
         "localAnchorPoint": "x:0 y:0 z:0",
         "materialAlpha": "1",
@@ -90,6 +96,9 @@
         "isLockedInEditor": "false",
         "isSelectInEditor": "false",
         "isVisibleInEditor": "true",
+        "lcl_position": "x:12.9478 y:1.4999 z:28.5832",
+        "lcl_rotation": "x:-0 y:0 z:0",
+        "lcl_scale": "x:1 y:1 z:1",
         "lineVelocity": "x:0 y:0 z:0",
         "localAnchorPoint": "x:0 y:0 z:0",
         "materialAlpha": "1",

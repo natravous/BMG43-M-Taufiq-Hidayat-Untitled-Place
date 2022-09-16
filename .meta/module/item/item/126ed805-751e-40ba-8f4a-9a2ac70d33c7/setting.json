@@ -1,0 +1,142 @@
+{
+  "data": {
+    "icon": {
+      "asset": "asset/Mesh/Gold Chain Key/g2030_baoxiangKey_1.tga"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemEquip"
+      }
+    },
+    "mesh": {
+      "asset": "asset/Mesh/Gold Chain Key/g2030_baoxiangKey_1.mesh"
+    },
+    "name": {
+      "value": "item_126ed805-751e-40ba-8f4a-9a2ac70d33c7"
+    },
+    "needSave": true,
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_SetGlobalVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_GlobalVar",
+                        "rawval": "isCheck"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool",
+                        "rawval": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "a3d3779b-a7b9-4200-b4f3-d3ca53097d07"
+              },
+              "pos": {
+                "x": 751,
+                "y": 254
+              }
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "21006e6e-d7d2-4bf8-b3f7-5806d56c871d"
+            },
+            "type": "Trigger_DropItemPicked"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  []
+                ]
+              }
+            ],
+            "id": {
+              "value": "8bd7f1a0-9690-42d6-8af8-27746f20a51f"
+            },
+            "pos": {
+              "x": 490,
+              "y": 189
+            }
+          },
+          "type": "Trigger_DropItemPicked"
+        },
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_SetGlobalVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_GlobalVar",
+                        "rawval": "mainKey"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool",
+                        "rawval": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "0a7a16e8-263d-46f3-add4-2e3aa38a86b0"
+              },
+              "pos": {
+                "x": 759,
+                "y": 318
+              }
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "f9ca6a04-3a92-498d-8b44-d9269df6d785"
+            },
+            "type": "Trigger_Hand"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "0a7a16e8-263d-46f3-add4-2e3aa38a86b0"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "442601cb-ef0a-4815-8ca7-a8f42776779a"
+            }
+          },
+          "type": "Trigger_Hand"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c0b610344f7e917b5196bccc17b4fe47",
+      "triggers.bts": "bd914eac0a7cf93f472fd8198348c72e"
+    },
+    "VERSION": "0.24"
+  }
+}

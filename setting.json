@@ -96,7 +96,7 @@
   "initPos": {
     "map": "map001",
     "x": 7,
-    "y": 1.0399001026154,
+    "y": 1.04,
     "z": 37
   },
   "isTimeStopped": true,
@@ -236,7 +236,7 @@
     {
       "map": "map001",
       "x": 9,
-      "y": 1.0399003410339,
+      "y": 1,
       "z": 16
     }
   ],
@@ -304,6 +304,16 @@
       },
       {
         "key": "player",
+        "run_type": "server",
+        "save": false
+      },
+      {
+        "key": "haveKey",
+        "run_type": "server",
+        "save": false
+      },
+      {
+        "key": "mainKey",
         "run_type": "server",
         "save": false
       }
