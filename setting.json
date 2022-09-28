@@ -95,9 +95,9 @@
   "ignoreEmptyStartPos": false,
   "initPos": {
     "map": "map001",
-    "x": 7,
+    "x": 20,
     "y": 1.04,
-    "z": 37
+    "z": 46
   },
   "isTimeStopped": true,
   "jumpControlConfig": {
@@ -234,10 +234,10 @@
   },
   "startPos": [
     {
-      "map": "map001",
-      "x": 9,
+      "map": "713abf64-d7a6-451d-99bb-cc542da2b849",
+      "x": -20,
       "y": 1,
-      "z": 16
+      "z": 46
     }
   ],
   "team": [],
